@@ -1,3 +1,5 @@
+# Rumor-detection
+
 1.we use Tencent open source word vector：
 
 URL：https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz
